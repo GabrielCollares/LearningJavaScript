@@ -33,7 +33,7 @@ s.toLowerCase() // tudo para letras 'MINUSCULAS'
 // STRING TO NUMBERS
 var n1 = 21         var n1 = 21.5        var n1 = 21.5
 var n2 = 23         var n2 = 23          var n2 = 23.5
-n1 + n2 = 44        n1 + n2 = 44 .5      n1 + n2 = 44
+n1 + n2 = 44        n1 + n2 = 44 .5      n1 + n2 = 45
 Number.ParsetInt    Number.ParsetFloat   Number
 
 Number.ParsetInt  // Numeros inteiros
