@@ -122,7 +122,3 @@ var média= 8
 média >=7? 'APROVADO': 'REPROVADO'
 ~~~
 
-
-Ex:
-var nome = window.prompt('whats your name ?')
-    window.alert('é um grande prazer em te conhecer, ' + nome + ' seu chupetinha')
